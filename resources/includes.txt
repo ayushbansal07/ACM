@@ -1,0 +1,20 @@
+#include<bits/stdc++.h>
+#define pb push_back
+#define F first
+#define S second
+#define mp make_pair
+#define lli long long int
+#define INF 1000000000000
+#define MOD 1000000007
+#define FOR(name,initial,final) for(int name=initial;name<final;name++)
+using namespace std;
+int main()
+{
+	int t;
+	cin>>t;
+	while(t--)
+	{
+
+	}
+
+}
